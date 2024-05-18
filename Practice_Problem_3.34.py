@@ -5,7 +5,6 @@ return the employee’s pay. Any hours worked beyond 40 is overtime and should b
 1.5 times the regular hourly wage
 '''
 
-
 hourly_wage = 15
 Nhours = int(input("please enter the number of hours worked: "))
 
